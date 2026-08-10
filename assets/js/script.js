@@ -468,4 +468,3 @@ document.getElementById('contactForm').addEventListener('keypress', function(e) 
         }
     }
 });
-    
